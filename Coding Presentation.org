@@ -1,0 +1,57 @@
+* Introduction
+** Joshua Picaro
+* What we will discuss
+** My background
+** A day in the life
+** Tools of the trade
+** Fun project
+* My Background
+** Systems Engineer
+** Untraditonal Path - Self Taught
+** Coding ~4 years
+** Interests
+*** Dungeons and Dragons
+*** Improv
+*** Overwatch
+* A day in the life
+** Work at home with my pup <display picture>
+** Small team 1-2 software developers
+** Make peoples ideas into a computer program
+** Foucs on automation and web development using tools...
+* Tools of the trade
+** Google
+*** It use to be that the person who could renember the most was the most valuable
+*** These days with the vast ammount of information around we are better served being able to look things up
+*** You still need to be able to think critically and abstract
+** APIs
+*** Ask about what devices they use. Describes how that is an interface.
+*** if none describe iphone/laptop
+*** Describe that this is the same with
+** Text Editors/IDE
+*** Visual Studios
+*** Emacs
+*** VIM
+** Verison Control
+*** Code is kept on the cloud
+*** TODO Allows us to make open source projects where anyone can work on it <-- need examples
+*** Allows us to use others programs as well
+** Databases
+* TODO Fun Projects
+ Most of these projects are coding and some are just fun.
+Some of my projects are found here https://github.com/Bigotacon/Udacity
+I can make a repo for today's code and post it online.
+** Raspery Pi and VNC
+*** Connecting to computer across the world
+** Cat clicker
+** Make a movie website
+*** christopher robin
+*** black panther
+*** breakfast club
+*** avengers
+*** toy story
+** turtle
+* Ideas
+** Export this to a website
+** Demomstrate making this into a website
+** call out if using mouse?
+avengers
