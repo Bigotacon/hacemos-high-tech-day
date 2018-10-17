@@ -1,61 +1,40 @@
 * Introduction
-** Joshua Picaro
-** [[https://github.com/Bigotacon/hacemos-high-tech-day][This repo is for the kids!]]
+  - Joshua Picaro
+  - [[https://github.com/Bigotacon/hacemos-high-tech-day][This repo is for the kids!]]
 * What we will discuss
-** My background
-** A day in the life
-** Tools of the trade
-** Fun project
+  - My background
+  - A day in the life
+  - Tools of the trade
+  - Fun project(s)
 * My Background
   - Systems Engineer
-  - Untraditonal Path - Self Taught
-  - Coding ~4 years
+  - Untraditonal Path
+  - Coding for four years
   - Interests
-*** Dungeons and Dragons
-*** Improv
-*** Overwatch
 * A day in the life
-** Work at home with my pup <display picture>
-** Small team 1-2 software developers
-** Make peoples ideas into a computer program
-** Foucs on automation and web development using tools...
+  - [[file:Graham.JPG][Working with pup]]
+  - Small teams
+  - Convert ideas into programs
+  - Projects include automation and web development
 * Tools of the trade
 ** Google
-*** It use to be that the person who could renember the most was the most valuable
-*** These days with the vast ammount of information around we are better served being able to look things up
-*** You still need to be able to think critically and abstract
+   - It use to be that the person who could renember the most was the most valuable
+   - These days with the vast ammount of information around we are better served being able to look things up
+   - You still need to be able to think critically and abstract
 ** Verison Control
-*** Download code
-*** Code is kept on the cloud with different verisons
-*** Allows developers to work togeether to build apps like Firefox
-*** Easily allows us to install/manage programs
+   - Code is kept on the cloud with different verisons
+   - Allows developers to work togeether to build apps like Firefox
+   - Easily allows us to install/manage programs
 ** APIs
-*** Ask about what devices they use. Describes how that is an interface.
-*** if none describe iphone/laptop
-*** Describe that this is the same with
+   - Ask about what devices the audience uses.
+   - Like the iPhone an API accepts input from various sources and provide a service.
 ** Text Editors/IDE
-*** Visual Studios
-*** Emacs
-*** VIM
+   - Visual Studios
+   - Emacs
+   - VIM
 ** Databases
-* TODO Fun Projects
- Most of these projects are coding and some are just fun.
-Some of my projects are found here https://github.com/Bigotacon/Udacity
-I can make a repo for today's code and post it online.
-** Raspery Pi and VNC
-*** Connecting to computer across the world
-** Cat clicker
-** Make a movie website
-*** christopher robin
-*** black panther
-*** breakfast club
-*** avengers
-*** toy story
-** turtle
-* Ideas
-** Lead with demonstrating how to download
-** pack hdmi cable, projector, power, power cable and test
-** Export this to a website
-** Demomstrate making this into a website
-** call out if using mouse?
-avengers
+* Fun Projects
+  - Cat clicker
+  - Make a Movie Planner
+  - Turtle
+  - Neighborhood Mocer - API
