@@ -1,15 +1,16 @@
 * Introduction
 ** Joshua Picaro
+** [[https://github.com/Bigotacon/hacemos-high-tech-day][This repo is for the kids!]]
 * What we will discuss
 ** My background
 ** A day in the life
 ** Tools of the trade
 ** Fun project
 * My Background
-** Systems Engineer
-** Untraditonal Path - Self Taught
-** Coding ~4 years
-** Interests
+  - Systems Engineer
+  - Untraditonal Path - Self Taught
+  - Coding ~4 years
+  - Interests
 *** Dungeons and Dragons
 *** Improv
 *** Overwatch
@@ -23,6 +24,11 @@
 *** It use to be that the person who could renember the most was the most valuable
 *** These days with the vast ammount of information around we are better served being able to look things up
 *** You still need to be able to think critically and abstract
+** Verison Control
+*** Download code
+*** Code is kept on the cloud with different verisons
+*** Allows developers to work togeether to build apps like Firefox
+*** Easily allows us to install/manage programs
 ** APIs
 *** Ask about what devices they use. Describes how that is an interface.
 *** if none describe iphone/laptop
@@ -31,10 +37,6 @@
 *** Visual Studios
 *** Emacs
 *** VIM
-** Verison Control
-*** Code is kept on the cloud
-*** TODO Allows us to make open source projects where anyone can work on it <-- need examples
-*** Allows us to use others programs as well
 ** Databases
 * TODO Fun Projects
  Most of these projects are coding and some are just fun.
@@ -51,6 +53,8 @@ I can make a repo for today's code and post it online.
 *** toy story
 ** turtle
 * Ideas
+** Lead with demonstrating how to download
+** pack hdmi cable, projector, power, power cable and test
 ** Export this to a website
 ** Demomstrate making this into a website
 ** call out if using mouse?
