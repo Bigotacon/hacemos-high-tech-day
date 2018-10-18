@@ -18,21 +18,17 @@
   - Projects include automation and web development
 * Tools of the trade
 ** Google
-   - It use to be that the person who could renember the most was the most valuable
-   - These days with the vast ammount of information around we are better served being able to look things up
-   - You still need to be able to think critically and abstract
-** Verison Control
-   - Code is kept on the cloud with different verisons
-   - Allows developers to work togeether to build apps like Firefox
-   - Easily allows us to install/manage programs
+   It is not what you can remember. It is hat you can look up.
 ** APIs
-   - Ask about what devices the audience uses.
-   - Like the iPhone an API accepts input from various sources and provide a service.
+   Like the iPhone an API accepts input from various sources and provide a service.
 ** Text Editors/IDE
    - Visual Studios
    - Emacs
    - VIM
-** Databases
+** Verison Control
+   - Code is kept on the cloud with different verisons
+   - Allows developers to work togeether to build apps like Firefox
+   - Easily allows us to install/manage programs
 * Fun Projects
   - Cat clicker
   - Make a Movie Planner
