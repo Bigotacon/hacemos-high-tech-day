@@ -30,7 +30,7 @@
    - Allows developers to work togeether to build apps like Firefox
    - Easily allows us to install/manage programs
 * Fun Projects
-  - Cat clicker
-  - Make a Movie Planner
-  - Turtle
-  - Neighborhood Mocer - API
+  + [[file:KnockoutJS-Cat%20Clicker/index.html][Cat Clicker]]
+  + [[file:Python-Movie-List/fresh_tomatoes.py][Make a movie planner]]
+  + [[file:Python-Using-Turtle/playpen.py][Turtle Playpen]]
+  + [[file:Neighborhood-API-Move-Planner/index.html][Neigborhood Move Planner]]
